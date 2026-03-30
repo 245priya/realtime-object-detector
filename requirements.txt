@@ -1,5 +1,3 @@
-os
+ultralytics
 cv2
-numpy 
-tensorflow 
 matplotlib
